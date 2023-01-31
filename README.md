@@ -5,4 +5,4 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=reregaga&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="reregaga's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reregaga&layout=compact&theme=swift&hide_border=true" /> |
 | ------------- | ------------- |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reregaga&label=Profile%20views&color=0e75b6&style=flat" alt="reregaga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reregaga&label=Profile%20views&color=0e75b6&style=flat" alt="reregaga" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=reregaga.reregaga" alt="visitors"/> </p> 
