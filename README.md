@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reregaga&" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reregaga&theme=icegray" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reregaga&title=Commits,Issues,PullRequest,Stars,Followers&margin-w=15&theme=oldie&column=5" alt="reregaga" /></a> </p>
 
